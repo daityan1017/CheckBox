@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckBox</string>
+    <string name="textView">text</string>
+    <string name="textView2">設定をここに表示</string>
+    <string name="CheckBox1">1ばん</string>
+    <string name="CheckBox2">2ばん</string>
+</resources>
